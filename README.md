@@ -1,6 +1,6 @@
 # devMidTest
 
-## Objetivo
+## Objective
 
 ### [Exercise 1: Simple Calculator](https://github.com/jbrunopg/devMidTest/blob/main/simple_calculator.ipynb)
 Create a calculator that takes two numbers and an operator (+, -, *, /) and returns the result
@@ -36,7 +36,7 @@ Create a function that calculates the final value of an investment based on init
 interest rate, and investment time (in months). The program must prompt the user for these
 values and display the final value.
 
-## Processo
+## Process
 
 - [x] Import from Tkinter library.
 - [x] Creation of frames
