@@ -10,28 +10,28 @@ of the operation.
 Write a function that checks whether a number is prime or not. Then create a program that
 prints the first 10 prime numbers.
 
-### Exercise 3: Factorial
+### [Exercise 3: Factorial](https://github.com/jbrunopg/devMidTest/blob/main/factorial.ipynb)
 Write a function to calculate the factorial of a number. Next, create a program that allows the
 user to enter a number and displays the corresponding factorial.
 
-### Exercise 4: Palindrome
+### [Exercise 4: Palindrome](https://github.com/jbrunopg/devMidTest/blob/main/palindrome.ipynb)
 Create a function that checks whether a word is a palindrome (that is, whether it reads the
 same backwards and forwards). The program must ask the user for a word and inform
 whether or not it is a palindrome.
 
-### Exercise 5: Table
+### [Exercise 5: Table](https://github.com/jbrunopg/devMidTest/blob/main/table.ipynb)
 Create a program that receives a number from the user and displays the table of that
 number, from 1 to 10.
 
-### Exercise 6: Vowel Counter
+### [Exercise 6: Vowel Counter](https://github.com/jbrunopg/devMidTest/blob/main/vowel_counter.ipynb)
 Create a function that counts the number of vowels in a string. The program should ask the
 user for a sentence and display how many vowels it has.
 
-### Exercise 7: Grade Average
+### [Exercise 7: Grade Average](https://github.com/jbrunopg/devMidTest/blob/main/grade_average.ipynb)
 Create a program that takes a student's grades in three different subjects and calculates the
 average of the grades. Then display the calculated average.
 
-### Exercise 8: Interest Calculation
+### [Exercise 8: Interest Calculation](https://github.com/jbrunopg/devMidTest/blob/main/interest%20_calculation.ipynb)
 Create a function that calculates the final value of an investment based on initial capital,
 interest rate, and investment time (in months). The program must prompt the user for these
 values and display the final value.
