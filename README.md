@@ -6,7 +6,7 @@
 Create a calculator that takes two numbers and an operator (+, -, *, /) and returns the result
 of the operation.
 
-### Exercise 2: Prime Numbers
+### [Exercise 2: Prime Numbers](https://github.com/jbrunopg/devMidTest/blob/main/prime_numbers.ipynb)
 Write a function that checks whether a number is prime or not. Then create a program that
 prints the first 10 prime numbers.
 
