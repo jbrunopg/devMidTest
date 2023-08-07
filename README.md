@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-### [Exercise 1: Simple Calculator] (https://github.com/jbrunopg/devMidTest/blob/main/simple_calculator.ipynb)
+### [Exercise 1: Simple Calculator](https://github.com/jbrunopg/devMidTest/blob/main/simple_calculator.ipynb){:target="_blank"}
 Create a calculator that takes two numbers and an operator (+, -, *, /) and returns the result
 of the operation.
 
