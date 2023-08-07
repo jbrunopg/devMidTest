@@ -37,3 +37,7 @@ interest rate, and investment time (in months). The program must prompt the user
 values and display the final value.
 
 ## Processo
+
+- [x] Import from Tkinter library.
+- [x] Creation of frames
+- [x] creating the function
